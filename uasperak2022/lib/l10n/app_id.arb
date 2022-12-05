@@ -1,0 +1,14 @@
+{
+  "studentlogin": "Masuk sebagai Mahasiswa",
+  "@studentlogin": {
+    "description": "Deskripsi mengenai variabel StudentLogin"
+  },
+  "password": "Kata Sandi",
+  "@password": {
+    "description": "Deskripsi mengenai variabel Password"
+  },
+  "signin": "Masuk",
+  "@signin": {
+    "description": "Deskripsi mengenai variabel Signin"
+  } 
+}
